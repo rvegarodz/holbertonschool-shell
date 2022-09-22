@@ -1,0 +1,1 @@
+Directory of Bash project
