@@ -1,4 +1,4 @@
-#Files used in Shell permission project (2nd week)
+# Files created to Shell Permission Project (2nd week)
 
 - File 0 - Script that switches the current user to betty
 - File 1 - Script that prints the effective username of the current user
