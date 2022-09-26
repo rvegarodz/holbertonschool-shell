@@ -1,7 +1,6 @@
 # Files created to Shell Projects (1st month)
 
 ### Basics project focus on:
-  - 
   - Navigation on the Shell: cd, pwd and ls
   - Looking around the Shell: less, file and ln
   - Using options and arguments with commands
