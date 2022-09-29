@@ -1,2 +1,2 @@
 #!/bin/bash
-cat [a-z] | tr " " \n | grep -v "oo"
+cat {a..z} | tr " " \n | grep -v "oo"
