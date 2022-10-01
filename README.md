@@ -22,7 +22,7 @@
   - Combine commands and filters with redirections
   - Uses and understand special characters
 
-### Init files, variables and expansions project focus on:
+### Init Files, Variables and Expansions project focus on:
   - Variables commands: printenv, set, unset, export, alias, unalias, source, printf
   - Understand /etc/profile file and /etc/profile.d directory
   - Understand ~/.bash
