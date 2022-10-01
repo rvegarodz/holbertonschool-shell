@@ -17,3 +17,6 @@
 - File 14 - Script that changes the owner and group for all the files and directories
 - File 15 - Script that changes the owner and group of a symbolic link 
 - File 16 - Script that changes the owner of the file **only if** its owned by a especific user
+
+### Resources to read or watch:
+  - [Permissions](http://linuxcommand.org/lc3_lts0090.php)
